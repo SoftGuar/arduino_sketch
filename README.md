@@ -1,6 +1,6 @@
-Plug the arduino into the computer using the serial cable
-Download Arduino IDE
-Connect the different components (Acc+Gyro, Magnetometer, Ultrasonic sensor) to the arduino by following the physical schema of the prototype
-Open up the files in Arduino IDE
-Compile the code and run it on the arduino
-You can see the results by showing the serial monitor with 115200 bauds
+- Plug the arduino into the computer using the serial cable
+- Download Arduino IDE
+- Connect the different components (Acc+Gyro, Magnetometer, Ultrasonic sensor) to the arduino by following the physical schema of the prototype
+- Open up the files in Arduino IDE
+- Compile the code and run it on the arduino
+- You can see the results by showing the serial monitor with 115200 bauds
