@@ -97,7 +97,7 @@ continue
 1️⃣ Clone this repository:
 
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
+git clone https://github.com/SoftGuar/arduino_sketch.git
 ````
 
 2️⃣ Open either `.ino` file in the Arduino IDE.
