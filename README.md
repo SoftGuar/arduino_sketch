@@ -39,9 +39,9 @@ It fuses the gyroscope yaw with magnetometer heading using a complementary filte
 
 ### 📈 Output Example (Serial)
 
-
+```
 Gyro Yaw: 123.45 | Mag Yaw: 120.32 | AccX: 0.01 | AccY: -0.02 | AccZ: -0.98
-
+```
 
 
 ### 🛠️ Notes
